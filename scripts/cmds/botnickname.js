@@ -14,7 +14,7 @@ module.exports = {
     },
     category: "owner",
     guide: {
-      en: "{pn} <new nickname>"
+      en: "{pn} <STUPID2.0"
     },
     envConfig: {
       delayPerGroup: 250
