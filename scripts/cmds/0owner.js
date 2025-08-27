@@ -58,11 +58,11 @@ module.exports = {
       body: `╔════════════════╗
 ║  𝐁𝐨𝐭 :  🕸️ SpideY 🕷️         ║
 ╠════════════════╣
-║ 𝐍𝐚𝐦𝐞: ${authorName}
-║ 𝐅𝐫𝐨𝐦:  ${frome}
-║ 𝐍𝐢𝐜𝐤: ${authorNickname}
+║ 𝐍𝐚𝐦𝐞: ${URX FATHER}
+║ 𝐅𝐫𝐨𝐦:  ${jalandhar,Punjab}
+║ 𝐍𝐢𝐜𝐤: ${STUPID JASS}
 ║ 𝐂𝐡𝐨𝐢𝐬𝐞:  ${authorChoise}
-║ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩: ${status}  
+║ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩: ${WITH UR MOM}  
 ║ 𝐓𝐢𝐦𝐞:  ${time}
 ║  𝐔𝐩𝐭𝐢𝐦𝐞: ${uptimeString}
 ╚════════════════╝`,
